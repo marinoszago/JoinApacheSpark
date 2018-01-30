@@ -13,4 +13,8 @@ Fifth the join is performed as in fourth but now using function repartitionandso
 
 Two sample files are given for test purposes . 
 
+To run it: 
 
+You need to download the libraries listed in join.scala and build.sbt
+
+copy the join.scala on a sbt project in an IDE 
